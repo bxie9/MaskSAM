@@ -99,7 +99,7 @@ Our code is based on [nnUNet](https://github.com/MIC-DKFZ/nnUNet) and [Segment A
 
 ## Citing MaskSAM
 
-If you use SAM or SA-1B in your research, please use the following BibTeX entry.
+If you use MaskSAM, please use the following BibTeX entry.
 
 ```
 @article{xie2024masksam,
